@@ -1,6 +1,8 @@
 # gif_finder_giphy_api
 
-A new Flutter project.
+This is an example of how to use a Giphy API to search gifs and share them.
+
+![](gif-finder.gif)
 
 ## Getting Started
 
